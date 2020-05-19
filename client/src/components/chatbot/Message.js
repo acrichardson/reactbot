@@ -13,7 +13,7 @@ const Message = (props) => (
           <span className="black-text">
             {props.text}
           </span>
-            }
+
         </div>
           {props.speaks==='me' &&
             <div className="col s2">
